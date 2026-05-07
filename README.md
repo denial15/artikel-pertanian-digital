@@ -1,3 +1,3 @@
-# ketika-big-data-dan-internet-of-things-mengubah-cara-bertani
+# Ketika Big Data dan Internet of Things (IoT) Mengubah Cara Bertani
 Perkembangan teknologi digital kini tidak hanya dirasakan di sektor industri dan perkantoran, tetapi juga mulai mengubah wajah pertanian modern. Aktivitas bertani yang sebelumnya mengandalkan pengalaman dan pengamatan manual perlahan bertransformasi menjadi sistem pertanian cerdas berbasis teknologi
 Konsep smart agriculture atau pertanian pintar semakin banyak diterapkan di berbagai negara. Teknologi seperti sensor digital, drone pertanian, Internet of Things (IoT), hingga big data analytics digunakan untuk membantu petani meningkatkan produktivitas sekaligus menjaga keberlanjutan lingkungan. Sebuah penelitian terbaru yang dipublikasikan dalam jurnal Smart Agricultural Technology menunjukkan bahwa kemampuan mengelola data dan teknologi digital memiliki pengaruh besar terhadap keberhasilan pertanian modern.
